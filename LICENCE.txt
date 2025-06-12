@@ -1,0 +1,3 @@
+Copyright (c) 2025 Isabelle Ligtelijn. All rights reserved.
+
+This code is protected by copyright law. Use, reproduction, distribution, or modification of this work is not permitted without the express written permission of the author.
